@@ -186,7 +186,7 @@ Name:		collectd
 Version:	5.4.0
 Release:	1%{?dist}
 URL:		http://collectd.org
-Source:		http://collectd.org/files/%{name}-%{version}.tar.bz2
+Source:		http://collectd.org/files/%{name}-%{version}.tar.gz
 License:	GPLv2
 Group:		System Environment/Daemons
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
